@@ -65,6 +65,3 @@ Content categories driving the most likes, shares, and comments.
 Audience growth trends based on profile visits and new followers.
 
 Peak times for content engagement (weekends, certain months).
-
-📈 Tools & Technologies
-SQL: MySQL for data analysis and querying.
