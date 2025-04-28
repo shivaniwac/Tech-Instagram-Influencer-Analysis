@@ -42,23 +42,17 @@ Edit
 ├── presentation/              # PowerPoint or Keynote presentation for live session
 └── README.md                  # Project overview and instructions
 💻 Installation
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/tech-instagram-influencer-analysis.git
-cd tech-instagram-influencer-analysis
-2. Database Setup
+1. Database Setup
 Import the gdb0120.sql file into MySQL Workbench to set up the database schema.
 
 Load the data into your database to start running SQL queries and analyzing the content.
 
-3. Run SQL Queries
+2. Run SQL Queries
 Navigate to the sql_queries folder and run the SQL scripts to generate insights.
 
 Each query is designed to answer a specific business question or produce a report.
 
-4. Generate Reports
+3. Generate Reports
 After running the SQL queries, export the data to CSV files or generate visualizations using tools like Power BI or Tableau.
 
 📝 Key Insights & Metrics
